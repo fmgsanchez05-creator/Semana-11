@@ -1,0 +1,5 @@
+La interfaz de la plataforma Programadores para la Paz tendría una sección principal donde los usuarios puedan registrar iniciativas, necesidades o causas comunitarias del territorio. El formulario para crear una causa permitiría ingresar un comunidad pueda consultar los proyectos o propuestas registradas y conocer las necesidades que título, una descripción, la categoría y la fecha de publicación.
+
+También tendría una vista de causas disponibles donde la comunidad pueda consultar los proyectos o propuestas registradas y conocer las necesidades que requieren apoyo. Cada causa tendría un botón para apoyar la iniciativa y un contador que muestre la cantidad de personas interesadas en participar.
+
+La plataforma debe tener un diseño sencillo, organizado y fácil de usar para que jóvenes, organizaciones y ciudadanos puedan interactuar. Además, debe proteger la información personal de los usuarios y mostrar únicamente los datos necesarios para la participación comunitaria.

@@ -1,0 +1,29 @@
+Entidad: Consejo de Juventud
+
+Campos principales:
+
+id_consejo
+municipio
+nombre_consejero
+periodo
+propuesta
+fecha_registro
+Propósito:
+Registrar la información de los Consejos de Juventud del departamento del Caquetá, sus representantes y las propuestas que presentan para fortalecer la participación de los jóvenes en el territorio.
+Entidad: Plataforma Comunitaria
+
+Campos principales:
+
+id_plataforma
+nombre_usuario
+municipio
+reporte
+categoria
+fecha_publicacion
+Propósito:
+Almacenar los reportes, iniciativas y necesidades que los ciudadanos del Caquetá registran en la plataforma, permitiendo organizar la información y facilitar la comunicación entre la comunidad y las organizaciones juveniles.
+
+
+
+
+
